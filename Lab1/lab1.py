@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import math
 
 height = float(input("Введіть висоту фігур: "))
